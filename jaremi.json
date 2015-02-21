@@ -1,0 +1,14 @@
+{
+	"projectsWithEndpoints" : [
+		{
+			"path" : "/Users/tomaszt/work/capd-services",
+			"name" : "capd-services"
+		}, 
+		{
+			"path" : "/Users/tomaszt/work/capd-external-user-auth-services",
+			"name" : "external-uth-services"
+		}	
+	],
+	"testProjects" : ["/Users/tomaszt/work/capd-api-test"],
+	"testResultDirecory" : "/Users/tomaszt/work/capd-api-test/target/test-reports"
+}
