@@ -1,14 +1,10 @@
 {
 	"projectsWithEndpoints" : [
 		{
-			"path" : "/Users/tomaszt/work/capd-services",
-			"name" : "capd-services"
-		}, 
-		{
-			"path" : "/Users/tomaszt/work/capd-external-user-auth-services",
-			"name" : "external-uth-services"
+			"path" : "<path to java project>",
+			"name" : "<project name>"
 		}	
 	],
-	"testProjects" : ["/Users/tomaszt/work/capd-api-test"],
-	"testResultDirecory" : "/Users/tomaszt/work/capd-api-test/target/test-reports"
+	"testProjects" : ["<path to project containg test>"],
+	"testResultDirecory" : "<path to directory with test rusult reports (xml)>"
 }
