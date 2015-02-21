@@ -23,6 +23,7 @@ def appendHeader():		#move content of that method to template file
 		</head>
 		<body>
 			<div>
+			<h1>Java rest api monitor</h1>
 			<table class="table">
 	""")
 
